@@ -1,4 +1,3 @@
-sendMsg();
 getMsg();
 
 function sendMsg(){
